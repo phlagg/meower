@@ -1,0 +1,18 @@
+.title {
+    text-align: center;
+    
+}
+.centerImage{
+    text-align: center;
+    display: block;
+    border-image: 10%
+}
+.mew-form{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    text-align: center;
+}
+
